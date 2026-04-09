@@ -38,8 +38,8 @@ StyleSync scrapes any URL and extracts design tokens — colors, typography, and
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stylesync.git
-cd stylesync
+git clone https://github.com/Om2407/Stylesync.git
+cd Stylesync
 ```
 
 ### 2. Database Setup
@@ -165,4 +165,12 @@ stylesync/
 
 ---
 
-Built for Purple Merit Technologies — Full Stack Vibe Coder Intern Assessment, April 2026.
+## Author
+
+**Om Gupta**
+GitHub: [@Om2407](https://github.com/Om2407/Stylesync)
+
+---
+
+> Made with ❤️ by **Om Gupta** for **PurpleMerit Technologies**
+> Full Stack Vibe Coder Intern Assessment — April 2026
