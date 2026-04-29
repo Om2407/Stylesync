@@ -172,5 +172,4 @@ GitHub: [@Om2407](https://github.com/Om2407/Stylesync)
 
 ---
 
-> Made with ❤️ by **Om Gupta** for **PurpleMerit Technologies**
-> Full Stack Vibe Coder Intern Assessment — April 2026
+> Made with ❤️ by **Om Gupta**
